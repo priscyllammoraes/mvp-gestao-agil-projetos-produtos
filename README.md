@@ -1,28 +1,40 @@
 # MVP – Gestão Ágil de Projetos e Produtos  
 
-Este diretório reúne todos os artefatos e entregas referentes ao **MVP desenvolvido na disciplina de Gestão Ágil de Projetos e Produtos**.  
+Este repositório consolida todos os resultados da **ideação, planejamento e prototipação do MVP (Produto Mínimo Viável)**, para um novo produto de software, realizado como avaliação da Sprint Gestão Ágil de Projetos e Produtos do Curso de Engenharia de Software da PUC-Rio.
+ 
 
-## 📝 Descrição do Projeto  
+## 📝 Descrição do Projeto   
+O produto desenvolvido é o **SGPP – Sistema de Gestão de Portfólio de Projetos**, uma plataforma digital para centralizar e consolidar informações sobre projetos de uma organização, apoiar a alocação de recursos e fornecer relatórios claros e estratégicos para a tomada de decisão. 
 
-O projeto consiste no desenvolvimento de um **Sistema de portfólio de projetos**, cujo objetivo é apoiar a gestão e o acompanhamento de iniciativas dentro de uma organização.  
-A solução foi pensada para oferecer:  
+### Stakeholders  
+- **Gestores de Projetos** – usuários diretos, responsáveis por cadastrar, acompanhar e atualizar os projetos.  
+- **Equipes de PMO** – responsáveis por apoiar a governança, gerar relatórios e analisar o portfólio.  
+- **Executivos da Organização** – interessados em relatórios estratégicos e dashboards para apoiar decisões de negócio.  
 
-- **Cadastro e acompanhamento de projetos** com informações de prazos, custos e riscos.  
-- **Gestão de mudanças** com justificativa de alterações relevantes.  
-- **Visualização centralizada** do portfólio para facilitar a tomada de decisão.  
-- **Integração com boas práticas ágeis**, garantindo transparência e rastreabilidade.  
+### Equipe Scrum  
+A equipe Scrum para o desenvolvimento do SGPP é enxuta, composta por:  
+- 1 Product Owner (PO)  
+- 2 Desenvolvedores Backend  
+- 1 Desenvolvedor Frontend  
+- 1 QA / Testador  
 
-Esse contexto serviu como base para a elaboração da **Lean Inception, Backlog do Produto, Sprint Backlog, protótipos de interface e vídeo de apresentação**.  
+Essa configuração garante agilidade e qualidade dentro de um prazo razoável para o MVP.  
 
-## 📂 Conteúdo do diretório  
 
-- **`wireframe/`** – protótipo da interface do sistema, com telas representando o funcionamento principal da solução.  
+## 📂 Conteúdo do Diretório  
+
+- **`wireframes/`** – protótipos da interface do sistema, com telas representando o funcionamento da solução idealizada na Lean Inception.  
 - **`product-backlog.pdf`** – backlog do produto com épicos, features e user stories, incluindo prioridades, DoR e DoD.  
-- **`sprint-backlog.pdf`** – backlog da sprint com histórias detalhadas, estimativas de esforço, critérios de aceite e justificativas.  
-- **`lean-inception/`** – link para o quadro no Miro com todas as etapas realizadas, incluindo o **MVP Canvas**.  
-- **`video-apresentacao.mp4`** – apresentação do produto, protótipo e resultados da sprint.  
+- **`sprint-backlog.pdf`** – backlog da sprint com histórias detalhadas, estimativas de esforço, critérios de aceite e subtarefas.
+- **`jira-export.pdf`** – pdf gerado a partir do Jira com todas as tarefas e todos os campos correspondentes. 
+- **`canvas-url.txt`** – link para o quadro no Miro com todas as etapas realizadas, incluindo o **MVP Canvas**.
+- **`lean-inception.pdf`** – arquivo com as etapas realizadas na lean incaption.  
+- **`video-apresentacao.txt`** – link do video de apresentação.  
+
 
 ## 🔗 Links Importantes  
- 
-- Quadro no Miro com a Lean Inception realizada: [https://miro.com/app/board/uXjVJCFY9rc=/?share_link_id=602542358543]  
-- Vídeo de apresentação do MVP: [inserir link aqui]  
+- Quadro no Miro com a Lean Inception realizada: [Board Lean Inception](https://miro.com/app/board/uXjVJCFY9rc=/?share_link_id=602542358543)  
+- Vídeo de apresentação do MVP: [Inserir link aqui]  
+
+---
+
