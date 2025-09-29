@@ -5,6 +5,7 @@ Este repositório consolida todos os resultados da **ideação, planejamento e p
 
 ## 📝 Descrição do Projeto   
 O produto desenvolvido é o **SGPP – Sistema de Gestão de Portfólio de Projetos**, uma plataforma digital para centralizar e consolidar informações sobre projetos de uma organização, apoiar a alocação de recursos e fornecer relatórios claros e estratégicos para a tomada de decisão. 
+Este mesmo tema foi utilizado no MVP das disciplinas anteriores, Desenvolvimento Full Stack e Arquitetura de Software.
 
 ### Stakeholders  
 - **Gestores de Projetos** – usuários diretos, responsáveis por cadastrar, acompanhar e atualizar os projetos.  
@@ -29,12 +30,12 @@ Essa configuração garante agilidade e qualidade dentro de um prazo razoável p
 - **`jira-export.pdf`** – pdf gerado a partir do Jira com todas as tarefas e todos os campos correspondentes. 
 - **`canvas-url.txt`** – link para o quadro no Miro com todas as etapas realizadas, incluindo o **MVP Canvas**.
 - **`lean-inception.pdf`** – arquivo com as etapas realizadas na lean incaption.  
-- **`video-apresentacao.txt`** – link do video de apresentação.  
 
 
 ## 🔗 Links Importantes  
+ 
 - Quadro no Miro com a Lean Inception realizada: [Board Lean Inception](https://miro.com/app/board/uXjVJCFY9rc=/?share_link_id=602542358543)  
-- Vídeo de apresentação do MVP: [Inserir link aqui]  
+- Vídeo de apresentação do MVP: [YouTube](https://youtu.be/XV3kZN6mvec)  
 
 ---
 
